@@ -1,0 +1,16 @@
+C:\Users\Ariana\Desktop\Projects\SistemScolardeInregistrare\SistemScolardeInregistrare\bin\Debug\SistemScolardeInregistrare.exe.config
+C:\Users\Ariana\Desktop\Projects\SistemScolardeInregistrare\SistemScolardeInregistrare\bin\Debug\SistemScolardeInregistrare.exe
+C:\Users\Ariana\Desktop\Projects\SistemScolardeInregistrare\SistemScolardeInregistrare\bin\Debug\SistemScolardeInregistrare.pdb
+C:\Users\Ariana\Desktop\Projects\SistemScolardeInregistrare\SistemScolardeInregistrare\bin\Debug\MaterialSkin.dll
+C:\Users\Ariana\Desktop\Projects\SistemScolardeInregistrare\SistemScolardeInregistrare\obj\Debug\SistemScolardeInregistrare.csprojAssemblyReference.cache
+C:\Users\Ariana\Desktop\Projects\SistemScolardeInregistrare\SistemScolardeInregistrare\obj\Debug\SistemScolardeInregistrare.FrmSistemScolarInregistrare.resources
+C:\Users\Ariana\Desktop\Projects\SistemScolardeInregistrare\SistemScolardeInregistrare\obj\Debug\SistemScolardeInregistrare.Properties.Resources.resources
+C:\Users\Ariana\Desktop\Projects\SistemScolardeInregistrare\SistemScolardeInregistrare\obj\Debug\SistemScolardeInregistrare.csproj.GenerateResource.cache
+C:\Users\Ariana\Desktop\Projects\SistemScolardeInregistrare\SistemScolardeInregistrare\obj\Debug\SistemScolardeInregistrare.csproj.CoreCompileInputs.cache
+C:\Users\Ariana\Desktop\Projects\SistemScolardeInregistrare\SistemScolardeInregistrare\obj\Debug\SistemScolardeInregistrare.csproj.CopyComplete
+C:\Users\Ariana\Desktop\Projects\SistemScolardeInregistrare\SistemScolardeInregistrare\obj\Debug\SistemScolardeInregistrare.exe
+C:\Users\Ariana\Desktop\Projects\SistemScolardeInregistrare\SistemScolardeInregistrare\obj\Debug\SistemScolardeInregistrare.pdb
+C:\Users\Ariana\Desktop\Projects\SistemScolardeInregistrare\SistemScolardeInregistrare\obj\Debug\SistemScolardeInregistrare.FrmStudenti.resources
+C:\Users\Ariana\Desktop\Projects\SistemScolardeInregistrare\SistemScolardeInregistrare\obj\Debug\SistemScolardeInregistrare.FrmAfisareStudenti.resources
+C:\Users\Ariana\Desktop\Projects\SistemScolardeInregistrare\SistemScolardeInregistrare\obj\Debug\SistemScolardeInregistrare.FrmProfesori.resources
+C:\Users\Ariana\Desktop\Projects\SistemScolardeInregistrare\SistemScolardeInregistrare\obj\Debug\SistemScolardeInregistrare.AfisareDateProfesori.resources
